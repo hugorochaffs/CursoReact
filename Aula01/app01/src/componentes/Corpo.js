@@ -4,7 +4,7 @@ export default function Corpo(){
 
     return(
         <>
-        <h2>Curso de React</h2>
+        <h2 style={{fontSize: '5em', color:'blue'}}>Curso de React</h2>
         </>
     )
 }
